@@ -1,0 +1,10 @@
+{
+    "name": "chinmay/demo-logger",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Chinmay\\DemoLogger\\": "src/"
+        }
+    },
+    "require": {}
+}
